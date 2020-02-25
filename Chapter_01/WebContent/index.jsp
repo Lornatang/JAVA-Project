@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Chapter_01 test</title>
+<title>Chapter_01</title>
 </head>
 
 <body>
