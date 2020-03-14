@@ -57,6 +57,8 @@ https://github.com/Lornatang/JAVA-Project/archive/master.zip
 - [Chapter_01](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_01)
 - [Chapter_02](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_02)
 - [Chapter_03](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_03)
+- [Chapter_04](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_04)
+- [Chapter_05](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_05)
 
 ### Contributing
 
