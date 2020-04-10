@@ -60,7 +60,8 @@ https://github.com/Lornatang/JAVA-Project/archive/master.zip
 - [Chapter_04](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_04)
 - [Chapter_05](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_05)
 - [Chapter_06](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_06)
-
+- [Chapter_07](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_07)
+- [Chapter_08](https://github.com/Lornatang/JAVA-Project/tree/master/Chapter_08)
 ### Contributing
 
 If you find a bug, create a GitHub issue, or even better, submit a pull request. Similarly, if you have questions, simply post them as GitHub issues.   
